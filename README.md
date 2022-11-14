@@ -1,9 +1,8 @@
 # My First Real REPO
+
 ## This Is Me
 
 ![This is an image](http://derricknuby.com/wp-content/uploads/2022/11/Derrick-Nuby-Iradukunda.jpg)
-
-
 
 Hello There My Name is Derrick (NUBY) IRADUKUNDA and this is propably my first professional repository here on [GitHub](https://github.com/Derrick-Nuby).
 
@@ -20,4 +19,6 @@ cout << "I love The Computer";
 I am planning on using GitHub in many ways i'll start by uploading my projects and everything else.
 
 ### Tasks To Accomplish!
-- [ ] 
+
+- [ ] clone a git repo
+- [] edit it and push it
