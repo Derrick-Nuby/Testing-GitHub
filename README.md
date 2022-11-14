@@ -21,4 +21,5 @@ I am planning on using GitHub in many ways i'll start by uploading my projects a
 ### Tasks To Accomplish!
 
 - [ ] clone a git repo
-- [] edit it and push it
+- [ ] edit it and push it
+- [ ] modify it and push it
